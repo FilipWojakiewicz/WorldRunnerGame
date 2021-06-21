@@ -1,0 +1,62 @@
+
+skin.png
+size: 1024, 512
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+button
+  rotate: false
+  xy: 804, 332
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+game-over
+  rotate: false
+  xy: 2, 197
+  size: 528, 61
+  orig: 528, 61
+  offset: 0, 0
+  index: -1
+home
+  rotate: false
+  xy: 2, 135
+  size: 60, 60
+  orig: 60, 60
+  offset: 0, 0
+  index: -1
+logo
+  rotate: false
+  xy: 2, 260
+  size: 800, 200
+  orig: 800, 200
+  offset: 0, 0
+  index: -1
+panel
+  rotate: false
+  xy: 532, 2
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+play
+  rotate: false
+  xy: 804, 270
+  size: 60, 60
+  orig: 60, 60
+  offset: 0, 0
+  index: -1
+quit
+  rotate: false
+  xy: 934, 400
+  size: 60, 60
+  orig: 60, 60
+  offset: 0, 0
+  index: -1
+restart
+  rotate: false
+  xy: 2, 73
+  size: 60, 60
+  orig: 60, 60
+  offset: 0, 0
+  index: -1

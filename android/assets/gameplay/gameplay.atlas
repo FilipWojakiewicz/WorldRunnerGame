@@ -1,0 +1,814 @@
+
+gameplay.png
+size: 1024, 1024
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+coin
+  rotate: false
+  xy: 2, 2
+  size: 880, 882
+  orig: 880, 882
+  offset: 0, 0
+  index: 2
+
+gameplay2.png
+size: 1024, 1024
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+coin
+  rotate: false
+  xy: 2, 2
+  size: 880, 882
+  orig: 880, 882
+  offset: 0, 0
+  index: 7
+
+gameplay3.png
+size: 1024, 1024
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+coin
+  rotate: false
+  xy: 2, 2
+  size: 880, 882
+  orig: 880, 882
+  offset: 0, 0
+  index: 11
+
+gameplay4.png
+size: 1024, 1024
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+coin
+  rotate: false
+  xy: 2, 2
+  size: 880, 882
+  orig: 880, 882
+  offset: 0, 0
+  index: 16
+
+gameplay5.png
+size: 1024, 1024
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+obstacle
+  rotate: false
+  xy: 154, 499
+  size: 520, 495
+  orig: 520, 495
+  offset: 0, 0
+  index: 1
+planet
+  rotate: false
+  xy: 2, 2
+  size: 495, 495
+  orig: 495, 495
+  offset: 0, 0
+  index: 1
+planet
+  rotate: false
+  xy: 499, 2
+  size: 495, 495
+  orig: 495, 495
+  offset: 0, 0
+  index: 2
+shot
+  rotate: false
+  xy: 2, 844
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+
+gameplay6.png
+size: 1024, 1024
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+planet
+  rotate: false
+  xy: 2, 499
+  size: 495, 495
+  orig: 495, 495
+  offset: 0, 0
+  index: 3
+planet
+  rotate: false
+  xy: 499, 499
+  size: 495, 495
+  orig: 495, 495
+  offset: 0, 0
+  index: 4
+planet
+  rotate: false
+  xy: 2, 2
+  size: 495, 495
+  orig: 495, 495
+  offset: 0, 0
+  index: 5
+planet
+  rotate: false
+  xy: 499, 2
+  size: 495, 495
+  orig: 495, 495
+  offset: 0, 0
+  index: 6
+
+gameplay7.png
+size: 1024, 1024
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+planet
+  rotate: false
+  xy: 2, 499
+  size: 495, 495
+  orig: 495, 495
+  offset: 0, 0
+  index: 7
+planet
+  rotate: false
+  xy: 499, 499
+  size: 495, 495
+  orig: 495, 495
+  offset: 0, 0
+  index: 8
+planet
+  rotate: false
+  xy: 2, 2
+  size: 495, 495
+  orig: 495, 495
+  offset: 0, 0
+  index: 9
+planet
+  rotate: false
+  xy: 499, 2
+  size: 495, 495
+  orig: 495, 495
+  offset: 0, 0
+  index: 10
+
+gameplay8.png
+size: 1024, 1024
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+planet
+  rotate: false
+  xy: 2, 499
+  size: 495, 495
+  orig: 495, 495
+  offset: 0, 0
+  index: 11
+planet
+  rotate: false
+  xy: 499, 499
+  size: 495, 495
+  orig: 495, 495
+  offset: 0, 0
+  index: 12
+planet
+  rotate: false
+  xy: 2, 2
+  size: 495, 495
+  orig: 495, 495
+  offset: 0, 0
+  index: 13
+planet
+  rotate: false
+  xy: 499, 2
+  size: 495, 495
+  orig: 495, 495
+  offset: 0, 0
+  index: 14
+
+gameplay9.png
+size: 1024, 1024
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+planet
+  rotate: false
+  xy: 2, 499
+  size: 495, 495
+  orig: 495, 495
+  offset: 0, 0
+  index: 15
+planet
+  rotate: false
+  xy: 499, 499
+  size: 495, 495
+  orig: 495, 495
+  offset: 0, 0
+  index: 16
+planet
+  rotate: false
+  xy: 2, 2
+  size: 495, 495
+  orig: 495, 495
+  offset: 0, 0
+  index: 17
+planet
+  rotate: false
+  xy: 499, 2
+  size: 495, 495
+  orig: 495, 495
+  offset: 0, 0
+  index: 18
+
+gameplay10.png
+size: 1024, 1024
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+planet
+  rotate: false
+  xy: 2, 499
+  size: 495, 495
+  orig: 495, 495
+  offset: 0, 0
+  index: 19
+planet
+  rotate: false
+  xy: 499, 499
+  size: 495, 495
+  orig: 495, 495
+  offset: 0, 0
+  index: 20
+planet
+  rotate: false
+  xy: 2, 2
+  size: 495, 495
+  orig: 495, 495
+  offset: 0, 0
+  index: 21
+planet
+  rotate: false
+  xy: 499, 2
+  size: 495, 495
+  orig: 495, 495
+  offset: 0, 0
+  index: 22
+
+gameplay11.png
+size: 1024, 1024
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+planet
+  rotate: false
+  xy: 2, 499
+  size: 495, 495
+  orig: 495, 495
+  offset: 0, 0
+  index: 23
+planet
+  rotate: false
+  xy: 499, 499
+  size: 495, 495
+  orig: 495, 495
+  offset: 0, 0
+  index: 24
+planet
+  rotate: false
+  xy: 2, 2
+  size: 495, 495
+  orig: 495, 495
+  offset: 0, 0
+  index: 25
+planet
+  rotate: false
+  xy: 499, 2
+  size: 495, 495
+  orig: 495, 495
+  offset: 0, 0
+  index: 26
+
+gameplay12.png
+size: 1024, 1024
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+planet
+  rotate: false
+  xy: 2, 499
+  size: 495, 495
+  orig: 495, 495
+  offset: 0, 0
+  index: 27
+planet
+  rotate: false
+  xy: 499, 499
+  size: 495, 495
+  orig: 495, 495
+  offset: 0, 0
+  index: 28
+planet
+  rotate: false
+  xy: 2, 2
+  size: 495, 495
+  orig: 495, 495
+  offset: 0, 0
+  index: 29
+planet
+  rotate: false
+  xy: 499, 2
+  size: 495, 495
+  orig: 495, 495
+  offset: 0, 0
+  index: 30
+
+gameplay13.png
+size: 1024, 1024
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+planet
+  rotate: false
+  xy: 2, 499
+  size: 495, 495
+  orig: 495, 495
+  offset: 0, 0
+  index: 31
+planet
+  rotate: false
+  xy: 499, 499
+  size: 495, 495
+  orig: 495, 495
+  offset: 0, 0
+  index: 32
+planet
+  rotate: false
+  xy: 2, 2
+  size: 495, 495
+  orig: 495, 495
+  offset: 0, 0
+  index: 33
+planet
+  rotate: false
+  xy: 499, 2
+  size: 495, 495
+  orig: 495, 495
+  offset: 0, 0
+  index: 34
+
+gameplay14.png
+size: 1024, 1024
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+coin
+  rotate: false
+  xy: 2, 2
+  size: 857, 850
+  orig: 857, 850
+  offset: 0, 0
+  index: 3
+
+gameplay15.png
+size: 1024, 1024
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+coin
+  rotate: false
+  xy: 2, 2
+  size: 857, 850
+  orig: 857, 850
+  offset: 0, 0
+  index: 6
+
+gameplay16.png
+size: 1024, 1024
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+coin
+  rotate: false
+  xy: 2, 2
+  size: 857, 850
+  orig: 857, 850
+  offset: 0, 0
+  index: 12
+
+gameplay17.png
+size: 1024, 1024
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+coin
+  rotate: false
+  xy: 2, 2
+  size: 857, 850
+  orig: 857, 850
+  offset: 0, 0
+  index: 15
+
+gameplay18.png
+size: 1024, 1024
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+coin
+  rotate: false
+  xy: 2, 2
+  size: 796, 807
+  orig: 796, 807
+  offset: 0, 0
+  index: 1
+
+gameplay19.png
+size: 1024, 1024
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+coin
+  rotate: false
+  xy: 2, 2
+  size: 796, 807
+  orig: 796, 807
+  offset: 0, 0
+  index: 8
+
+gameplay20.png
+size: 1024, 1024
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+coin
+  rotate: false
+  xy: 2, 2
+  size: 796, 807
+  orig: 796, 807
+  offset: 0, 0
+  index: 10
+
+gameplay21.png
+size: 1024, 1024
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+coin
+  rotate: false
+  xy: 2, 2
+  size: 796, 807
+  orig: 796, 807
+  offset: 0, 0
+  index: 17
+
+gameplay22.png
+size: 1024, 1024
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+background
+  rotate: false
+  xy: 2, 2
+  size: 600, 1000
+  orig: 600, 1000
+  offset: 0, 0
+  index: -1
+
+gameplay23.png
+size: 1024, 1024
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+coin
+  rotate: false
+  xy: 2, 2
+  size: 732, 716
+  orig: 732, 716
+  offset: 0, 0
+  index: 4
+
+gameplay24.png
+size: 1024, 1024
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+coin
+  rotate: false
+  xy: 2, 2
+  size: 732, 716
+  orig: 732, 716
+  offset: 0, 0
+  index: 5
+
+gameplay25.png
+size: 1024, 1024
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+coin
+  rotate: false
+  xy: 2, 2
+  size: 732, 716
+  orig: 732, 716
+  offset: 0, 0
+  index: 13
+
+gameplay26.png
+size: 1024, 1024
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+coin
+  rotate: false
+  xy: 2, 2
+  size: 732, 716
+  orig: 732, 716
+  offset: 0, 0
+  index: 14
+
+gameplay27.png
+size: 1024, 1024
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+planet
+  rotate: false
+  xy: 2, 19
+  size: 495, 495
+  orig: 495, 495
+  offset: 0, 0
+  index: 35
+ground
+  rotate: false
+  xy: 499, 2
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+
+gameplay28.png
+size: 1024, 1024
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+enemy
+  rotate: false
+  xy: 516, 2
+  size: 484, 605
+  orig: 484, 605
+  offset: 0, 0
+  index: -1
+hero
+  rotate: false
+  xy: 2, 95
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+
+gameplay29.png
+size: 1024, 1024
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+coin
+  rotate: false
+  xy: 2, 2
+  size: 616, 635
+  orig: 616, 635
+  offset: 0, 0
+  index: 9
+
+gameplay30.png
+size: 1024, 1024
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+coin
+  rotate: false
+  xy: 2, 2
+  size: 616, 635
+  orig: 616, 635
+  offset: 0, 0
+  index: 18
+
+gameplay31.png
+size: 1024, 1024
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+obstacle
+  rotate: false
+  xy: 2, 2
+  size: 560, 640
+  orig: 560, 640
+  offset: 0, 0
+  index: 2
+
+gameplay32.png
+size: 1024, 1024
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+obstacle
+  rotate: false
+  xy: 2, 2
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: 3
+
+gameplay33.png
+size: 1024, 1024
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+obstacle
+  rotate: false
+  xy: 2, 2
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: 4
+
+gameplay34.png
+size: 1024, 1024
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+obstacle
+  rotate: false
+  xy: 2, 2
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: 5
+
+gameplay35.png
+size: 1024, 1024
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+obstacle
+  rotate: false
+  xy: 2, 2
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: 6
+
+gameplay36.png
+size: 1024, 1024
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+player
+  rotate: false
+  xy: 2, 2
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: 1
+
+gameplay37.png
+size: 1024, 1024
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+player
+  rotate: false
+  xy: 2, 2
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: 2
+
+gameplay38.png
+size: 1024, 1024
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+player
+  rotate: false
+  xy: 2, 2
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: 3
+
+gameplay39.png
+size: 1024, 1024
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+player
+  rotate: false
+  xy: 2, 2
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: 4
+
+gameplay40.png
+size: 1024, 1024
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+player
+  rotate: false
+  xy: 2, 2
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: 5
+
+gameplay41.png
+size: 1024, 1024
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+player
+  rotate: false
+  xy: 2, 2
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: 6
+
+gameplay42.png
+size: 1024, 1024
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+player
+  rotate: false
+  xy: 2, 2
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: 7
+
+gameplay43.png
+size: 1024, 1024
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+player
+  rotate: false
+  xy: 2, 2
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: 8
+
+gameplay44.png
+size: 1024, 1024
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+player
+  rotate: false
+  xy: 2, 2
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: 9
+
+gameplay45.png
+size: 1024, 1024
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+player
+  rotate: false
+  xy: 2, 2
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: 10
+
+gameplay46.png
+size: 1024, 1024
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+player
+  rotate: false
+  xy: 2, 2
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: 11
+
+gameplay47.png
+size: 1024, 1024
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+player
+  rotate: false
+  xy: 2, 2
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: 12
